@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="custom_range_slider_widget"
+        android:label="Range Slider Example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
